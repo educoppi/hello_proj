@@ -1,0 +1,11 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ AA4F-B85D
+
+ Pasta de C:\Users\47344773880\Desktop\hello_proj
+
+07/05/2026  21:55    <DIR>          .
+07/05/2026  20:47    <DIR>          ..
+07/05/2026  21:55                 0 dir.txt
+07/05/2026  21:09                62 README.md
+               2 arquivo(s)             62 bytes
+               2 pasta(s)   797.968.388.096 bytes dispon¡veis
